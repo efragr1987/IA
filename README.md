@@ -1,2 +1,2 @@
 # IA
-Material correspondiente a IA
+Material correspondiente a Inteligencia Artificial
